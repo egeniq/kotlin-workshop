@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- pallette -->
+    <color name="orange_palette_50">#fcf2e7</color>
+    <color name="orange_palette_100">#f8dec3</color>
+    <color name="orange_palette_200">#f3c89c</color>
+    <color name="orange_palette_300">#eeb274</color>
+    <color name="orange_palette_400">#eaa256</color>
+    <color name="orange_palette_500">#e69138</color>
+    <color name="orange_palette_600">#e38932</color>
+    <color name="orange_palette_700">#df7e2b</color>
+    <color name="orange_palette_800">#db7424</color>
+    <color name="orange_palette_900">#d56217</color>
+    <color name="orange_palette_A100">#ffffff</color>
+    <color name="orange_palette_A200">#ffe3d4</color>
+    <color name="orange_palette_A400">#ffc3a1</color>
+    <color name="orange_palette_A700">#ffb287</color>
+    
+
+    <color name="colorPrimary">@color/orange_palette_700</color>
+    <color name="colorPrimaryDark">@color/orange_palette_900</color>
+    <color name="colorAccent">@color/orange_palette_A700</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="light_background">@color/orange_palette_50</color>
+    <color name="light_background_stroke">#CECECE</color>
+    <color name="grey_text">#5A5A5A</color>
+</resources>
